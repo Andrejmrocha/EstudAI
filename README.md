@@ -58,7 +58,7 @@ src/
 
 ### 1. Clone o projeto
 ```bash
-git clone https://github.com/Andrejmrocha/estudai.git
+git clone https://github.com/Andrejmrocha/EstudAI.git
 cd estudai
 ```
 
